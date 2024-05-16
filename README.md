@@ -3,7 +3,9 @@
 ## Introduction
 Wow.js is a JavaScript library designed to add scroll-triggered animations to web pages effortlessly. By simply incorporating it into your project, you can bring elements to life as users scroll, enhancing the overall interactivity and engagement of your website.
 
-[Visit deme](https://vxlrubel.github.io/wowjs/);
+[Visit deme](https://vxlrubel.github.io/wowjs/)
+Also you can see the speed : [visit](https://pagespeed.web.dev/analysis/https-vxlrubel-github-io-wowjs/usmhxdlmbz?form_factor=mobile)
+
 
 ## How to use
 
